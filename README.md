@@ -6,7 +6,7 @@ This repository contains a tutorial project demonstrating user management featur
 https://git.cs.dal.ca/nkazi/csci_5709_b00961418/-/tree/main/Tutorials/Tutorial7
 
 ## Github Link:
-https://github.com/KaziNizamul/Tutorial-7
+https://github.com/KaziNizamul/Tutorial7
 
 ## Deployed Link
 

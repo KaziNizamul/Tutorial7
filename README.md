@@ -52,6 +52,24 @@ pnpm dev (or pnpm run dev)
 
 ## Screenshots (if image is not rendering, pls click on it to open it in new tab):
 
+- Before Delete
+<img width="1095" alt="Screenshot 2024-07-18 at 8 08 58 PM" src="https://github.com/user-attachments/assets/3b30bb99-bbe9-4a6b-9456-a38da3c0f508">
+
+<br>
+<br>
+<br>
+<br>
+
+- Delete User
+<img width="1110" alt="Screenshot 2024-07-18 at 8 10 08 PM" src="https://github.com/user-attachments/assets/8224fb83-9777-4f50-b274-b882e9219697">
+
+<br>
+<br>
+<br>
+<br>
+
+- After Delete
+<img width="1103" alt="Screenshot 2024-07-18 at 8 10 25 PM" src="https://github.com/user-attachments/assets/fb3aceed-7564-4534-9e5d-6dbbc8e50e3b">
 
 
 

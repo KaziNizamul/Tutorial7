@@ -9,7 +9,7 @@ https://git.cs.dal.ca/nkazi/csci_5709_b00961418/-/tree/main/Tutorials/Tutorial7
 https://github.com/KaziNizamul/Tutorial7
 
 ## Deployed Link
-
+https://tutorial7-pnog.onrender.com
 
 ## Features
 
